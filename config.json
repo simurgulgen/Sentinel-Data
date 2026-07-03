@@ -2,13 +2,13 @@
   "appsJsonUrl": "https://raw.githubusercontent.com/simurgulgen/Sentinel-Data/refs/heads/main/apps.json",
   "mirrorJsonUrl": "https://raw.githubusercontent.com/simurgulgen/Sentinel-Data/data/mirror.json",
   "maintenanceMode": false,
-  "maintenanceMessage": "Dostum, evet sen! Senin için Sentinel Store'a erişimini engelledim, nedenini bilmek ister misin? Çünkü Sentinel'i güncellemedin dostum!\nŞaka yapıyorum, sunucu bakımda, sakin ol dostum. Ama bakım bittikten sonra Orion’u güncelle, tamam mı?",
-  "announcement": "Kısa bir süre önce Spotify, Revanced Team’e “Unlock Premium” adlı belirli bir yama ile ilgili olarak DMCA kaldırma bildirimi gönderdi; bu nedenle Spotify için çalışan herhangi bir mod beklemeyin.",
+  "maintenanceMessage": "Dostum, evet sen! Senin için Sentinel Store'a erişimini engelledim, nedenini bilmek ister misin? Çünkü Sentinel'i güncellemedin dostum!\nŞaka yapıyorum, sunucu bakımda, sakin ol dostum. Ama bakım bittikten sonra Orion'u güncelle, tamam mı?",
+  "announcement": "Kısa bir süre önce Spotify, Revanced Team'e \"Unlock Premium\" adlı belirli bir yama ile ilgili olarak DMCA kaldırma bildirimi gönderdi; bu nedenle Spotify için çalışan herhangi bir mod beklemeyin.",
   
   "notice": {
     "id": "notice209",
     "title": "Please Read!",
-    "message":"From Orion update, Morphe Builds, Technical Support to Server Maintenance, it's all done by me. It takes a lot of time and effort to keep the Orion Store running absolutely free for everyone. If you really like my work and want Orion Store to stay alive then please consider Donating to the Orion project.\n\nNow Indians can also donate through UPI at “rookiez@ptyes”\n\nGo to the Dev tab and click “Buy Me a Coffee” and show your support.",
+    "message":"From Orion update, Morphe Builds, Technical Support to Server Maintenance, it's all done by me. It takes a lot of time and effort to keep the Orion Store running absolutely free for everyone. If you really like my work and want Orion Store to stay alive then please consider Donating to the Orion project.\n\nNow Indians can also donate through UPI at \"rookiez@ptyes\"\n\nGo to the Dev tab and click \"Buy Me a Coffee\" and show your support.",
     "show": true
   },
 
@@ -18,7 +18,7 @@
   "easterEggUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
   "socials": {
     "github": "https://github.com/simurgulgen",
-    "x": "https://x.com/,
+    "x": "https://x.com/",
     "discord": "https://discord.com/",
     "coffee": "https://ko-fi.com/"
   },
@@ -30,7 +30,7 @@
   "faqs": [
     {
       "question": "Sentinel Store güvenli mi??",
-      "answer": "Kesinlikle. Sentinel Store tamamen açık kaynaklıdır. Bu, kodumuzun GitHub’da herkesin denetleyebileceği şekilde herkese açık olduğu anlamına gelir. Şeffaflığa inanıyoruz — gizli izleme araçları yok, veri madenciliği yok, sadece uygulamalara giden temiz bir geçit var.",
+      "answer": "Kesinlikle. Sentinel Store tamamen açık kaynaklıdır. Bu, kodumuzun GitHub'da herkesin denetleyebileceği şekilde herkese açık olduğu anlamına gelir. Şeffaflığa inanıyoruz - gizli izleme araçları yok, veri madenciliği yok, sadece uygulamalara giden temiz bir geçit var.",
       "icon": "fa-shield-cat"
     },
     {
@@ -40,17 +40,17 @@
     },
     {
      "question": "ReVanced yapıları güvenli mi??",
-     "answer": "Evet. Bu derlemeler, manuel olarak yamalanmak yerine GitHub Actions botları aracılığıyla otomatik olarak gerçekleştirilir. Resmi ReVanced CLI’si ve APKMirror, Uptodown ve APKPure’dan temin edilen APK’lar üzerindeki yamalar kullanılır. İşlem her gün sabah saat 6’da gerçekleştirilir. Derleme sürecinin tamamı şeffaf ve açık kaynaktır.: https://github.com/RookieEnough/Revanced-AutoBuilds",
+     "answer": "Evet. Bu derlemeler, manuel olarak yamalanmak yerine GitHub Actions botları aracılığıyla otomatik olarak gerçekleştirilir. Resmi ReVanced CLI'si ve APKMirror, Uptodown ve APKPure'dan temin edilen APK'lar üzerindeki yamalar kullanılır. İşlem her gün sabah saat 6'da gerçekleştirilir. Derleme sürecinin tamamı şeffaf ve açık kaynaktır.: https://github.com/RookieEnough/Revanced-AutoBuilds",
      "icon": "fa-robot"
   },
   {
     "question": "Kurulum başarısız mı oldu?",
-    "answer": "“Uygulama yüklenmedi” veya “Paket çakışması” mesajını görürseniz, muhtemelen imza uyuşmazlığı söz konusudur. Modifiye edilmiş bir uygulamayı, orijinal Play Store sürümünün veya başka bir modun üzerine yükleyemezsiniz. Önce mevcut uygulamayı kaldırın, ardından Sentinel’den uygulamayı yükleyin..",
+    "answer": "\"Uygulama yüklenmedi\" veya \"Paket çakışması\" mesajını görürseniz, muhtemelen imza uyuşmazlığı söz konusudur. Modifiye edilmiş bir uygulamayı, orijinal Play Store sürümünün veya başka bir modun üzerine yükleyemezsiniz. Önce mevcut uygulamayı kaldırın, ardından Sentinel'den uygulamayı yükleyin..",
     "icon": "fa-file-signature"
   },
     {
       "question": "İndirme işlemi çalışmıyor?",
-      "answer": "Panik yapmayın! Uygulamanın ayrıntı sayfasına gidin ve sağ üst köşedeki “Bildir” simgesine (⚠️) tıklayın. Böylece bir e-posta formu otomatik olarak doldurulacak ve ben de sorunu en kısa sürede çözebileceğim.",
+      "answer": "Panik yapmayın! Uygulamanın ayrıntı sayfasına gidin ve sağ üst köşedeki \"Bildir\" simgesine (🐞) tıklayın. Böylece bir e-posta formu otomatik olarak doldurulacak ve ben de sorunu en kısa sürede çözebileceğim.",
       "icon": "fa-bug"
     },
     {
@@ -60,12 +60,12 @@
     },
     {
       "question": "Nasıl destek olabilirim?",
-      "answer": "Ko-fi üzerinden bağış yoluyla. Kod mağazayı ayakta tutar, ama kahve geliştiriciyi ayakta tutar! Bağlantıyı “sosyal medya” bölümünde bulabilirsiniz..",
+      "answer": "Ko-fi üzerinden bağış yoluyla. Kod mağazayı ayakta tutar, ama kahve geliştiriciyi ayakta tutar! Bağlantıyı \"sosyal medya\" bölümünde bulabilirsiniz..",
       "icon": "fa-heart"
     },
     {
       "question": "Gizli bir sürpriz var mı?",
-      "answer": "Mimarın baktığı yerde, sır uykuya dalar.\n\nBir örümceğin bacaklarını say. Bir küpün köşelerini say.\n\n Yüz’e kadar sıfır kez vur.Eğer.\n\nAltın Gerçek, kuralları bilenleri bekliyor... ben de öyle.",
+      "answer": "Mimarın baktığı yerde, sır uykuya dalar.\n\nBir örümceğin bacaklarını say. Bir küpün köşelerini say.\n\nYüz'e kadar sıfır kez vur.\n\nAltın Gerçek, kuralları bilenleri bekliyor... ben de öyle.",
       "icon": "fa-user-secret"
     }
   ],
