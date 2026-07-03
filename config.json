@@ -1,9 +1,9 @@
 {
-  "appsJsonUrl": "https://raw.githubusercontent.com/RookieEnough/Orion-Data/refs/heads/main/apps.json",
-  "mirrorJsonUrl": "https://raw.githubusercontent.com/RookieEnough/Orion-Data/data/mirror.json",
+  "appsJsonUrl": "https://raw.githubusercontent.com/simurgulgen/Sentinel-Data/refs/heads/main/apps.json",
+  "mirrorJsonUrl": "https://raw.githubusercontent.com/simurgulgen/Sentinel-Data/data/mirror.json",
   "maintenanceMode": false,
-  "maintenanceMessage": "Bro you, yes you! I've blocked the access of Orion Store for you, wanna know why? because you didn't update Orion man!\nJust kidding, Server is under maintenance, chill dude But hey, Update Orion after maintainance is done, okay?",
-  "announcement": "Recently, Spotify gave DMCA Takedown notice to Revanced Team regarding a certain patch which is Unlock Premium, so don't expect any working mod for Spotify.",
+  "maintenanceMessage": "Dostum, evet sen! Senin için Sentinel Store'a erişimini engelledim, nedenini bilmek ister misin? Çünkü Sentinel'i güncellemedin dostum!\nŞaka yapıyorum, sunucu bakımda, sakin ol dostum. Ama bakım bittikten sonra Orion’u güncelle, tamam mı?",
+  "announcement": "Kısa bir süre önce Spotify, Revanced Team’e “Unlock Premium” adlı belirli bir yama ile ilgili olarak DMCA kaldırma bildirimi gönderdi; bu nedenle Spotify için çalışan herhangi bir mod beklemeyin.",
   
   "notice": {
     "id": "notice209",
