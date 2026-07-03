@@ -12,60 +12,60 @@
     "show": true
   },
 
-  "latestStoreVersion": "1.3.3",
+  "latestStoreVersion": "1.3.2",
   "storeDownloadUrl": "https://github.com/RookieEnough/Orion-Store/releases/download/1.3.3/app-release.apk",
-  "supportEmail": "orionstoredev@gmail.com",
+  "supportEmail": "sentinelstoredev@gmail.com",
   "easterEggUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
   "socials": {
-    "github": "https://github.com/RookieEnough",
-    "x": "https://x.com/_Rookie_Z",
-    "discord": "https://discord.com/invite/CrM6y4ujnq",
-    "coffee": "https://ko-fi.com/rookie_z"
+    "github": "https://github.com/simurgulgen",
+    "x": "https://x.com/,
+    "discord": "https://discord.com/",
+    "coffee": "https://ko-fi.com/"
   },
   "devProfile": {
-    "name": "RookieZ",
-    "bio": "Orion is the future, one commit at a time. No ads, no tracking, just code.",
-    "image": "https://i.pinimg.com/originals/12/79/48/127948a3253396796874286570740594.jpg"
+    "name": "Simurg",
+    "bio": "Sentinel, her bir commit ile geleceğe doğru ilerliyor. Reklam yok, izleme yok, sadece kod var.",
+    "image": ""
   },
   "faqs": [
     {
-      "question": "Is Orion Store safe?",
-      "answer": "Absolutely. Orion Store is completely open-source. This means our code is public on GitHub for anyone to audit. We believe in transparency—no hidden trackers, no data mining, just a clean gateway to apps.",
+      "question": "Sentinel Store güvenli mi??",
+      "answer": "Kesinlikle. Sentinel Store tamamen açık kaynaklıdır. Bu, kodumuzun GitHub’da herkesin denetleyebileceği şekilde herkese açık olduğu anlamına gelir. Şeffaflığa inanıyoruz — gizli izleme araçları yok, veri madenciliği yok, sadece uygulamalara giden temiz bir geçit var.",
       "icon": "fa-shield-cat"
     },
     {
-      "question": "Are apps on Orion safe?",
-      "answer": "Yes. I personally review and mod them using tools available on their official repositories to ensure they are safe, functional, and privacy-respecting before they land here.",
+      "question": "Sentinel'deki uygulamalar güvenli mi??",
+      "answer": "Evet. Buraya eklenmeden önce, bunların güvenli, işlevsel ve gizlilik ilkelerine uygun olduğundan emin olmak için resmi depolarında bulunan araçları kullanarak bunları bizzat inceliyor ve düzenliyorum..",
       "icon": "fa-check-double"
     },
     {
-     "question": "Are ReVanced builds safe?",
-     "answer": "Yes. These builds are automated via GitHub Actions bots, not manually patched. They use the official ReVanced CLI and patches on APKs sourced from APKMirror, Uptodown, and APKPure. The process runs daily at 6 AM. The entire build pipeline is transparent and open-source: https://github.com/RookieEnough/Revanced-AutoBuilds",
+     "question": "ReVanced yapıları güvenli mi??",
+     "answer": "Evet. Bu derlemeler, manuel olarak yamalanmak yerine GitHub Actions botları aracılığıyla otomatik olarak gerçekleştirilir. Resmi ReVanced CLI’si ve APKMirror, Uptodown ve APKPure’dan temin edilen APK’lar üzerindeki yamalar kullanılır. İşlem her gün sabah saat 6’da gerçekleştirilir. Derleme sürecinin tamamı şeffaf ve açık kaynaktır.: https://github.com/RookieEnough/Revanced-AutoBuilds",
      "icon": "fa-robot"
   },
   {
-    "question": "Installation failed?",
-    "answer": "If you see 'App not installed' or 'Package conflicts', it's likely a signature mismatch. You cannot install a modded app over the original Play Store version or a different mod. Uninstall the existing app first, then install the one from Orion.",
+    "question": "Kurulum başarısız mı oldu?",
+    "answer": "“Uygulama yüklenmedi” veya “Paket çakışması” mesajını görürseniz, muhtemelen imza uyuşmazlığı söz konusudur. Modifiye edilmiş bir uygulamayı, orijinal Play Store sürümünün veya başka bir modun üzerine yükleyemezsiniz. Önce mevcut uygulamayı kaldırın, ardından Sentinel’den uygulamayı yükleyin..",
     "icon": "fa-file-signature"
   },
     {
-      "question": "Download not working?",
-      "answer": "Don't panic! Just head to the app's detail page and click the 'Report' icon (⚠️) in the top right corner. It will pre-fill an email so I can fix it ASAP.",
+      "question": "İndirme işlemi çalışmıyor?",
+      "answer": "Panik yapmayın! Uygulamanın ayrıntı sayfasına gidin ve sağ üst köşedeki “Bildir” simgesine (⚠️) tıklayın. Böylece bir e-posta formu otomatik olarak doldurulacak ve ben de sorunu en kısa sürede çözebileceğim.",
       "icon": "fa-bug"
     },
     {
-      "question": "Will there be more apps?",
-      "answer": "Yes, if there'll be more interesting apps to add on. As long as I find open-source or useful tools that deserve a spotlight, the library will keep growing.",
+      "question": "Daha fazla uygulama olacak mı?",
+      "answer": "Evet, eklenecek daha ilginç uygulamalar olursa. Dikkat çekmeyi hak eden açık kaynaklı veya kullanışlı araçlar bulduğum sürece, kütüphane büyümeye devam edecek.",
       "icon": "fa-layer-group"
     },
     {
-      "question": "How can I support?",
-      "answer": "By donation through ko-fi. Code fuels the store, but coffee fuels the dev! You can find the link in the socials section.",
+      "question": "Nasıl destek olabilirim?",
+      "answer": "Ko-fi üzerinden bağış yoluyla. Kod mağazayı ayakta tutar, ama kahve geliştiriciyi ayakta tutar! Bağlantıyı “sosyal medya” bölümünde bulabilirsiniz..",
       "icon": "fa-heart"
     },
     {
-      "question": "Is there any hidden easter egg?",
-      "answer": "Where the Architect stares, the secret sleeps.\n\nCount the legs of a spider. Count the vertices of a cube.\n\nStrike the Visage that many times.\n\nThe Golden Truth awaits those who know the rules... and so do I.",
+      "question": "Gizli bir sürpriz var mı?",
+      "answer": "Mimarın baktığı yerde, sır uykuya dalar.\n\nBir örümceğin bacaklarını say. Bir küpün köşelerini say.\n\n Yüz’e kadar sıfır kez vur.Eğer.\n\nAltın Gerçek, kuralları bilenleri bekliyor... ben de öyle.",
       "icon": "fa-user-secret"
     }
   ],
@@ -73,7 +73,7 @@
     {
       "id": "curated-row",
       "type": "curved_apps",
-      "title": "Curated Spotlight",
+      "title": "Seçilmiş Öne Çıkanlar",
       "appIds": [
         "youtube-revanced",
         "MiCTS",
@@ -93,8 +93,8 @@
     {
       "id": "recommended-bundles",
       "type": "recommendation_bundles",
-      "title": "Recommended App Bundles",
-      "subtitle": "Collections of curated apps for your workflow",
+      "title": "Önerilen Uygulama Paketleri",
+      "subtitle": "İş akışınız için özenle seçilmiş uygulamalardan oluşan koleksiyonlar",
       "bundles": [
         {
           "id": "bundle-morphe-essentials",
@@ -115,7 +115,7 @@
         {
           "id": "bundle-de-google",
           "title": "De-Google",
-          "description": "Privacy-focused alternatives to stay independent.",
+          "description": "Bağımsız kalmak için gizlilik odaklı alternatifler.",
           "badge": "Privacy",
           "icon": "fa-user-secret",
           "appIds": [
@@ -132,8 +132,8 @@
         },
         {
           "id": "bundle-power-users",
-          "title": "Power Users",
-          "description": "Advanced tools for those who want total control.",
+          "title": "İleri Düzey Kullanıcılar",
+          "description": "Tam kontrol sahibi olmak isteyenler için gelişmiş araçlar.",
           "badge": "Pro",
           "icon": "fa-terminal",
           "appIds": [
